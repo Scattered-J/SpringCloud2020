@@ -1,3 +1,2 @@
 spring:
-  application:
-    name: cloud-config-center
+  application: cloud-config-center version=1
