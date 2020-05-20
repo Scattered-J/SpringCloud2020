@@ -1,2 +1,2 @@
-spring:
-  application: cloud-config-center version=1
+config:
+  info: cloud-config-center version=1
